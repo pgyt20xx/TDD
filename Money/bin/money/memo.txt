@@ -1,0 +1,6 @@
+■13章
+reduceメソッドはポリモーフィズムにより、Bankを通してMoney.reduceとSum.reduceに使い分けられる
+
+■14章
+実装済
+為替レートをBankに実装する。
